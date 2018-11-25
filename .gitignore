@@ -1,0 +1,11 @@
+.idea/
+eb-virt/
+djangosrc/osfinal/\.ebextensions/
+djangosrc/osfinal/db.sqlite3
+djangosrc/osfinal/osfinal/settings.py
+djangosrc/osfinal/static/
+
+djangosrc/osfinal/schedulers/__pycache__/
+djangosrc/osfinal/osfinal/__pycache__/
+djangosrc/osfinal/schedulers/schedulers/__pycache__/
+djangosrc/osfinal/schedulers/migrations/__pycache__/
